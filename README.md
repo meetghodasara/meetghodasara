@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m @meetghodasara
-- 👀 I’m interested in web-development and Fin-Tech. 
+- I’m interested in web-development and Fin-Tech. 
 - 🌱 I’m Web developer { Intermediate } 
 - 👨🏼‍💻 I’m looking to collaborate on website project & competitive coding learning 
 - 📫 How to reach me
