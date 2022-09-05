@@ -4,5 +4,4 @@
 - 📫 Reach me on : 
 - Linkedin : https://www.linkedin.com/in/meetghodasara/
 - Twitter : https://twitter.com/meet_ghodasara1
-- Instagram : https://www.instagram.com/meet._ghodasara/
 - Email: meet.d.ghodasara@gmail.com
