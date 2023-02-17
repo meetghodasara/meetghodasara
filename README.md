@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Meet Ghodasara</h1>
 <h3 align="center">I'm a passionate JavaScript developer with experience in React and Nodejs. I enjoy solving complex problems and learning new things.</h3>
 
-- 🎓 Education **I'm currently pursuing a degree in Computer Science and Engineering, which has helped me gain a strong foundation in computer programming and problem-solving skills.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/meet_ghodasara1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meet_ghodasara1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/meetghodasara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meetghodasara" height="30" width="40" /></a>
-<a href="https://instagram.com/meet._ghodasara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meet._ghodasara" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/cust_20dcs024" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="cust_20dcs024" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/meet_d_ghodasara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="meet_d_ghodasara" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/meetghodasara1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="meetghodasara1" height="30" width="40" /></a>
