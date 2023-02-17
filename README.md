@@ -1,15 +1,22 @@
-About Me
-👋 Introduction
-Hey there! I'm a passionate JavaScript developer with experience in React and Nodejs. I enjoy solving complex problems and learning new things.
+<h1 align="center">Hi 👋, I'm Meet Ghodasara</h1>
+<h3 align="center">I'm a passionate JavaScript developer with experience in React and Nodejs. I enjoy solving complex problems and learning new things.</h3>
 
-🎓 Education
-I'm currently pursuing a degree in Computer Science and Engineering, which has helped me gain a strong foundation in computer programming and problem-solving skills.
+- 🎓 Education **I'm currently pursuing a degree in Computer Science and Engineering, which has helped me gain a strong foundation in computer programming and problem-solving skills.**
 
-💼 Professional Experience
-As a developer, I have experience in web development and have contributed to various projects. I've also solved a number of data structure and algorithm problems on Leetcode.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/meet_ghodasara1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meet_ghodasara1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/meetghodasara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meetghodasara" height="30" width="40" /></a>
+<a href="https://instagram.com/meet._ghodasara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meet._ghodasara" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/cust_20dcs024" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="cust_20dcs024" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/meet_d_ghodasara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="meet_d_ghodasara" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/meetghodasara1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="meetghodasara1" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/meetghodasara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="meetghodasara" height="30" width="40" /></a>
+</p>
 
-🎮 Hobbies
-When I'm not coding, you can often find me gaming with PES and WWE 2k22. I also have a keen interest in finance and like to keep up-to-date with the latest news and trends in the market.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-📫 Contact Me
-If you'd like to connect or discuss a project, feel free to reach out to me via email or social media.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meetghodasara&show_icons=true&locale=en&layout=compact" alt="meetghodasara" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meetghodasara&show_icons=true&locale=en" alt="meetghodasara" /></p>
